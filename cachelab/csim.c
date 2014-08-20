@@ -1,8 +1,8 @@
 /**
  * csim.c -- Solution to the Part A of 15213-Cachelab.
  *
- * Name: Guoli Ma
- * Andrew ID: guolim
+ * Name: *****
+ * Andrew ID: *****
  *
  * This program receives the parameter (s, E, b) of a cache, creates a cache
  * simulator, and simulates cache hitting, missing, and evicting behavior
